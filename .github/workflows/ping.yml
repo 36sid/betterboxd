@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping service
-        run: curl https://your-render-url.onrender.com/health
+        run: curl https://betterboxd-1.onrender.com/health
